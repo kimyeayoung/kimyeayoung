@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/kimyeayoung/kimyeayoung/blob/output/github-contribution-grid-snake.svg"/>
 
 <!--
 **kimyeayoung/kimyeayoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
